@@ -4,6 +4,9 @@ var func2=function(){
 var func1=function(callback){
     //do something.
     console.log("func1");
+    for (var i =0; i<100;i++){
+        console.log(i);
+    }
     callback();
 }
 
