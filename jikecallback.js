@@ -1,3 +1,4 @@
+// 函数表达式，匿名函数
 var func2=function(){
     console.log("func2");
 }
